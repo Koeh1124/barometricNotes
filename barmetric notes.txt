@@ -1,0 +1,9 @@
+Pb = static pressure (pressure at sea level) [Pa]
+Tb = standard temperature (temperature at sea level) [K]
+Lb = standard temperature lapse rate [K/m] = -0.0065 [K/m]
+h = height about sea level [m]
+hb = height at the bottom of atmospheric layer [m]
+R = universal gas constant = 8.31432 
+go = gravitational acceleration constant = 9.80665
+M = molar mass of Earth’s air = 0.0289644 [kg/mol]
+
